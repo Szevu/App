@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Licznik</string>
+    <string name="reset">Reset</string>
+    <string name="sw">Przełącznik</string>
+    <string name="add">Dodaj</string>
+    <string name="singly">Pojedyńczo</string>
+    <string name="dou">Podwójnie</string>
+    <string name="btnL">Zaloguj</string>
+    <string name="Pass">Hasło:</string>
+    <string name="Na">Nazwa:</string>
+    <string name="LogL">Logowanie</string>
+    <string name="error_login_empty">Pole nie może być puste</string>
+    <string name="error_password_empty">Pole nie może być puste</string>
+    <string name="login_s">Logowanie udane</string>
+    <string name="login_f">Logowanie nieudane</string>
+    <string name="counter">Licznik</string>
+    <string name="menu">Menu</string>
+</resources>

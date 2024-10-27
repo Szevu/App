@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">カウンタ</string>
+    <string name="reset">リセット</string>
+    <string name="sw">スイッチ</string>
+    <string name="add">追加</string>
+    <string name="singly">一人で</string>
+    <string name="dou">ダブル</string>
+    <string name="btnL">ログイン</string>
+    <string name="Pass">パスワード：</string>
+    <string name="Na">名前：</string>
+    <string name="LogL">ログイン</string>
+    <string name="error_login_empty">フィールドを空にすることはできません</string>
+    <string name="error_password_empty">フィールドを空にすることはできません</string>
+    <string name="login_s">ログイン成功</string>
+    <string name="login_f">ログインに失敗しました</string>
+    <string name="counter">カウンタ</string>
+    <string name="menu">メニュー</string>
+</resources>
