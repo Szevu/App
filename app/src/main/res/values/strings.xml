@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Counter</string>
+    <string name="app_name">MyApp</string>
     <string name="plus" translatable="false">+</string>
     <string name="minus" translatable="false">-</string>
     <string name="ekran" translatable="false">0</string>
@@ -18,4 +18,20 @@
     <string name="login_f">login failed</string>
     <string name="counter">Counter</string>
     <string name="menu">Menu</string>
+    <string name="witamy">Witamy %1$s</string>
+    <string name="phonewalid">Phone number incorrect</string>
+    <string name="buttonPhone">Call</string>
+    <string name="GetRandom">Random</string>
+    <string name="switchImnage">Gray</string>
+    <string name="nsi">Resize photo</string>
+    <string name="cpa">Change photo alpha</string>
+    <string name="switchchangecolor">Color</string>
+    <string name="buttonIntent">Intent</string>
+    <string name="buttonimage">Image</string>
+    <string name="searchID">Invalid String</string>
+    <string name="buttonSrch">Search</string>
+    <string name="buttonWeb">Open</string>
+    <string name="url">Invalid Url</string>
+    <string name="locations">Invalid name</string>
+    <string name="buttonLocation">Search</string>
 </resources>

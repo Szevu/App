@@ -25,13 +25,24 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        Handler(Looper.getMainLooper()).postDelayed(object : Runnable{
-            override fun run(){
-                val intent = Intent(this@MainActivity, CounterActivity::class.java)
-                intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK)
-                startActivity(intent)
-                finish()
-            }
-        }, 3000)
+        val bundle = intent.extras
+        val userName = bundle?.getString("userName")?.uppercase()
+        binding.textView5.text = getString(R.string.witamy, userName)
+
+
+        binding.button6.setOnClickListener {
+            val intent = Intent(this@MainActivity, CounterActivity::class.java)
+            startActivity(intent)
+        }
+
+        binding.button7.setOnClickListener {
+            val intent = Intent(this@MainActivity, IntentActivity::class.java)
+            startActivity(intent)
+        }
+
+        binding.button8.setOnClickListener {
+            val intent = Intent(this@MainActivity, ImageActivity::class.java)
+            startActivity(intent)
+        }
     }
 }

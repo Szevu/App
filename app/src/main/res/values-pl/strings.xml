@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Licznik</string>
+    <string name="app_name">Moja Aplikacja</string>
     <string name="reset">Reset</string>
     <string name="sw">Przełącznik</string>
     <string name="add">Dodaj</string>
@@ -16,4 +16,20 @@
     <string name="login_f">Logowanie nieudane</string>
     <string name="counter">Licznik</string>
     <string name="menu">Menu</string>
+    <string name="witamy">Welcome %1$s</string>
+    <string name="phonewalid">Numer telefonu jest niepoprawny</string>
+    <string name="buttonPhone">Zadzwoń</string>
+    <string name="GetRandom">Losowy</string>
+    <string name="switchImnage">Szary</string>
+    <string name="nsi">Zmień rozmiar zdjęcia</string>
+    <string name="cpa">Zmień alfe zdjęcia</string>
+    <string name="switchchangecolor">Kolorowy</string>
+    <string name="buttonIntent">Zamiar</string>
+    <string name="buttonimage">Zdjęcie</string>
+    <string name="searchID">Nieporawne wyrażenie</string>
+    <string name="buttonSrch">Wyszukaj</string>
+    <string name="buttonWeb">Otwórz</string>
+    <string name="url">Niepoprawny adres</string>
+    <string name="locations">Niepoprawna nazwa</string>
+    <string name="buttonLocation">Wyszukaj</string>
 </resources>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">カウンタ</string>
+    <string name="app_name">私のアプリ</string>
     <string name="reset">リセット</string>
     <string name="sw">スイッチ</string>
     <string name="add">追加</string>
@@ -16,4 +16,20 @@
     <string name="login_f">ログインに失敗しました</string>
     <string name="counter">カウンタ</string>
     <string name="menu">メニュー</string>
+    <string name="witamy">いらっしゃいませ %1$s</string>
+    <string name="phonewalid">電話番号が間違っています</string>
+    <string name="buttonPhone">" 電話"</string>
+    <string name="GetRandom">ランダム</string>
+    <string name="switchImnage">グレー</string>
+    <string name="nsi">写真のサイズを変更する</string>
+    <string name="cpa">写真のアルファを変更する</string>
+    <string name="switchchangecolor">カラフル</string>
+    <string name="buttonIntent">意図</string>
+    <string name="buttonimage">"写真 "</string>
+    <string name="searchID">無効な式</string>
+    <string name="buttonSrch">検索</string>
+    <string name="buttonWeb">開ける</string>
+    <string name="url">間違った住所</string>
+    <string name="locations">無効な名前</string>
+    <string name="buttonLocation">検索</string>
 </resources>
