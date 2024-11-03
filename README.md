@@ -1,1 +1,1 @@
-add sdk file to project
+add local.properties file if is missing 
