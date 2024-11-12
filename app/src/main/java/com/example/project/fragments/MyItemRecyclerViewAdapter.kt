@@ -39,8 +39,8 @@ class MyItemRecyclerViewAdapter(
     override fun getItemCount(): Int = values.size
 
     inner class ViewHolder(binding: FragmentItemBinding) : RecyclerView.ViewHolder(binding.root) {
-        val idView: TextView = binding.itemNumber
-        val contentView: TextView = binding.content
+        val idView: TextView = binding.contactName
+        val contentView: TextView = binding.contactNumber
 
         override fun toString(): String {
             return super.toString() + " '" + contentView.text + "'"
