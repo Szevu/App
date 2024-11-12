@@ -22,16 +22,16 @@ class CounterActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         binding.textView.text = textView.toString()
-
+        binding.textView2.text = "x1"
         binding.switch1.setOnClickListener{
             if(binding.switch1.isChecked){
                 binding.button.text = "+2".toString()
                 binding.button2.text = "-2".toString()
-                binding.textView2.text = getString(R.string.dou)
+                binding.textView2.text = "x2"
             }else{
                 binding.button.text = "+".toString()
                 binding.button2.text = "-".toString()
-                binding.textView2.text = getString(R.string.singly)
+                binding.textView2.text = "x1"
             }
         }
 

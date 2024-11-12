@@ -30,8 +30,10 @@
         android:id="@+id/randomImageBTN"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:backgroundTint="#C50FE6"
+        android:backgroundTint="#913DE4"
         android:text="@string/GetRandom"
+        android:textColor="#121212"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.05"
         app:layout_constraintStart_toStartOf="parent"
@@ -60,7 +62,7 @@
         android:layout_marginTop="64dp"
         android:max="666"
         android:progress="200"
-        android:progressTint="#E91E63"
+        android:progressTint="#2AE7DE"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.512"
         app:layout_constraintStart_toStartOf="parent"
@@ -73,7 +75,7 @@
         android:layout_marginTop="76dp"
         android:max="255"
         android:progress="255"
-        android:progressTint="#E91E63"
+        android:progressTint="#2AE7DE"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.454"
         app:layout_constraintStart_toStartOf="parent"
@@ -81,7 +83,7 @@
 
     <TextView
         android:id="@+id/textView7"
-        android:layout_width="182dp"
+        android:layout_width="300dp"
         android:layout_height="27dp"
         android:text="@string/nsi"
         android:textAlignment="center"
@@ -89,12 +91,12 @@
         android:textSize="16sp"
         app:layout_constraintBottom_toTopOf="@+id/BarGrey"
         app:layout_constraintTop_toBottomOf="@+id/MonoBTN"
-        app:layout_constraintVertical_bias="0.621"
+        app:layout_constraintVertical_bias="0.675"
         tools:layout_editor_absoluteX="91dp" />
 
     <TextView
         android:id="@+id/textView8"
-        android:layout_width="286dp"
+        android:layout_width="275dp"
         android:layout_height="37dp"
         android:text="@string/cpa"
         android:textAlignment="center"

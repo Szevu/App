@@ -25,7 +25,7 @@
     <string name="switchImnage">Gray</string>
     <string name="nsi">Resize photo</string>
     <string name="cpa">Change photo alpha</string>
-    <string name="switchchangecolor">Color</string>
+
     <string name="buttonIntent">Intent</string>
     <string name="buttonimage">Image</string>
     <string name="searchID">Invalid String</string>
@@ -39,4 +39,6 @@
     <string name="image1">Image</string>
     <string name="list1">List</string>
     <string name="list">List</string>
+    <string name="switchchangecolor">Kolorowy</string>
+    <string name="switchchangecolor_off">Szary</string>
 </resources>

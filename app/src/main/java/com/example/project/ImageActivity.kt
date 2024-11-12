@@ -51,6 +51,7 @@ class ImageActivity : AppCompatActivity() {
                 binding.MonoBTN.text = getString(R.string.switchchangecolor).toString()
             } else{
                 imageF.colorFilter = null
+                binding.MonoBTN.text = getString(R.string.switchchangecolor_off)
             }
         }
 

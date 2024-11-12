@@ -23,7 +23,7 @@ class LoaderActivity : AppCompatActivity() {
             insets
         }
 
-        binding.textView3.text = resources.getString(R.string.app_name)
+        binding.textView3.text = "Testowa aplikacja"
 
         Handler(Looper.getMainLooper()).postDelayed(object : Runnable{
             override fun run(){

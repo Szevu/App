@@ -14,7 +14,7 @@ import com.example.project.databinding.ActivityLoginBinding
 class LoginActivity : AppCompatActivity() {
     private lateinit var binding: ActivityLoginBinding
     private val LoginDane = "root"
-    private val PassDane = "root123"
+    private val PassDane = "123"
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
