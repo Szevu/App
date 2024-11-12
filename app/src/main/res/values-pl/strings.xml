@@ -32,4 +32,9 @@
     <string name="url">Niepoprawny adres</string>
     <string name="locations">Niepoprawna nazwa</string>
     <string name="buttonLocation">Wyszukaj</string>
+    <string name="counter1">Licznik</string>
+    <string name="intent1">Zamiar</string>
+    <string name="image1">Zdjęcie</string>
+    <string name="list1">Lista</string>
+    <string name="list">Lista</string>
 </resources>

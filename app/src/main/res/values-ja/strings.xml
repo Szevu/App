@@ -32,4 +32,9 @@
     <string name="url">間違った住所</string>
     <string name="locations">無効な名前</string>
     <string name="buttonLocation">検索</string>
+    <string name="counter1">カウンタ</string>
+    <string name="intent1">意図</string>
+    <string name="image1">写真</string>
+    <string name="list1">リスト</string>
+    <string name="list">リスト</string>
 </resources>

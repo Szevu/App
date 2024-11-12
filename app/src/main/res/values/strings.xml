@@ -34,4 +34,9 @@
     <string name="url">Invalid Url</string>
     <string name="locations">Invalid name</string>
     <string name="buttonLocation">Search</string>
+    <string name="counter1">Counter</string>
+    <string name="intent1">Intent</string>
+    <string name="image1">Image</string>
+    <string name="list1">List</string>
+    <string name="list">List</string>
 </resources>

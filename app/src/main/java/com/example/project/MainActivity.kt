@@ -44,5 +44,10 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this@MainActivity, ImageActivity::class.java)
             startActivity(intent)
         }
+
+        binding.button9.setOnClickListener {
+            val intent = Intent(this@MainActivity, ListaActivity::class.java)
+            startActivity(intent)
+        }
     }
 }
